@@ -1,6 +1,16 @@
-## Hi there 👋
+git init
+git add <your-file-name>
+git commit -m "Added file"
+git branch -M main
+git remote add origin https://github.com/your-username/your-repository-name.git
+git push -u origin main
 
-<!--
+<!--git init
+git add <your-file-name>
+git commit -m "Added file"
+git branch -M main
+git remote add origin https://github.com/your-username/your-repository-name.git
+git push -u origin main
 **Ecovibe-store/Ecovibe-store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
